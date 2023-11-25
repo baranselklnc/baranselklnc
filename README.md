@@ -60,5 +60,5 @@ I'm
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
 
