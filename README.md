@@ -57,9 +57,8 @@ I'm
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
 </p>
----
 
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranselklnc&show_icons=true&locale=en" alt="baranselklnc" /></p>
