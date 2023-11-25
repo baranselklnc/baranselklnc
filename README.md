@@ -33,8 +33,7 @@ I'm
 * Android Developer at [Orion Innovation](https://www.orioninc.com/).
 * Software Instructor at [Yuksek Muhendislik](https://www.linkedin.com/in/baransel-k%C4%B1l%C4%B1n%C3%A7-8b7931181/details/experience/1613564447109/single-media-viewer/?profileId=ACoAACsHussBdeP3Pvnd9xtm2CuSctvbHT5y40o).
 * Webmaster at [Fragtist](https://fragtist.com/).
-
-*Webmaster at  [Rondex Parts](https://rondexparts.com/).
+* Webmaster at  [Rondex Parts](https://rondexparts.com/).
 
 ---
 
@@ -48,8 +47,6 @@ I'm
   <img align="center" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="react-native" width="40" height="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img>
-  
 
 </p>
 
