@@ -59,4 +59,7 @@ I'm
 </p>
 ---
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baranselklnc&show_icons=true&locale=en" alt="baranselklnc" /></p>
