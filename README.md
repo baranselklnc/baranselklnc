@@ -53,7 +53,7 @@ I'm
 <h3 align="center">Design Tools I Use</h3>
 
 <p align="center">
-  <img align="center" src="https://scontent.fayt2-2.fna.fbcdn.net/v/t39.30808-6/348282372_1087894072168201_7702250561542182220_n.png?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=CO17OWHhEqYAX__2jLU&_nc_ht=scontent.fayt2-2.fna&oh=00_AfDuAWwpZhVq-IcaIbZtux_tUrY8c9Fw9AZXdlU7XTws-w&oe=6578356D" alt="uizard" width="40" height="40"/>
+  <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/uosng4omsipht7cpvbi8" alt="uizard" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
 </p>
