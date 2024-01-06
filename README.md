@@ -17,12 +17,12 @@
 <br/>
 <br/>
 
-<h3 align="left">What am I doing?</h3>
+<h3 align="left">What am I doing?</h3>  <p align="right"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
 
 I'm
 * working as an Mobile Developer at [Ayssoft](https://ayssoft.com/).
 * working on React Native
-* take pleasure in coding with Kotlin
+* take pleasure in coding with Kotlin 
 
 <h3 align="left">What did i do?</h3>
 
@@ -58,5 +58,4 @@ I'm
 
 ---
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
 
