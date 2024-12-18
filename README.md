@@ -20,8 +20,7 @@
 <h3 align="left">What am I doing?</h3>  
 
 I'm
-* working as an Mobile Developer at [Ayssoft](https://ayssoft.com/).
-* working on React Native
+* working on  Kotlin
 * take pleasure in coding with Kotlin 
 
 <h3 align="left">What did i do?</h3>
