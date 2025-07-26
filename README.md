@@ -39,12 +39,13 @@ I'm
 
 <p align="center">
   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>
+  <img align="center" src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" alt="flutter" width="40" height="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img align="center" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="react-native" width="40" height="40"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZAPhkIP75IVa4trptoEfFlzk-0KFEm0ibg&s" alt="postman" width="60" height="60"/>
+  
 
 </p>
 
