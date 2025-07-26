@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href=https://bento.me/baranselklnc"><img src="https://img.icons8.com/bubbles/75/000000/user.png" alt="Bento.me"/></a>
+  <a href="https://bento.me/baranselklnc"><img src="https://img.icons8.com/bubbles/75/000000/user.png" alt="Bento.me"/></a>
   <a href="mailto:baranselklnc@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/baransel-k%C4%B1l%C4%B1n%C3%A7-8b7931181/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/brnslklnc"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
