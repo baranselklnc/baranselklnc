@@ -3,7 +3,7 @@
 <br/>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=15F75E&random=false&width=435&lines=I+'m+an++Android+Developer;I+'m+a++Webmaster;I+'m+passionate" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=15F75E&random=false&width=435&lines=I+'m+an++Android+Developer;I+'m+a++Mobile Developer;I+'m+passionate" alt="Headline" />
 </div>
 
 <p align="center">
