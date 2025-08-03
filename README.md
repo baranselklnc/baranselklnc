@@ -2,10 +2,9 @@
 
 <br/>
 
-<div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=15F75E&random=false&width=435&lines=I+'m+an++Android+Developer;I+'m+a++Mobile Developer;I+'m+passionate" alt="Headline" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=1000&color=15F75E&random=false&width=435&lines=I'm%20an%20Android%20Developer;I'm%20a%20Mobile%20Developer;I'm%20passionate" alt="Typing SVG Headline" />
 </div>
-
 <p align="center">
   <a href="https://bento.me/baranselklnc"><img src="https://img.icons8.com/bubbles/75/000000/user.png" alt="Bento.me"/></a>
   <a href="mailto:baranselklnc@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
