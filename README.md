@@ -20,8 +20,8 @@
 <h3 align="left">What am I doing?</h3>  
 
 I'm
-* working on  Kotlin & Dart 
-* take pleasure in coding with Kotlin 
+* Mobile Developer at [Percon](https://www.percon.io/aboutus)
+
 
 <h3 align="left">What did i do?</h3>
 
