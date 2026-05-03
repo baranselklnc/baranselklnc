@@ -16,7 +16,6 @@
 
 <br/>
 <br/>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=baranselklnc&show_icons=true&locale=en&layout=compact" alt="baranselklnc" /></p>
 <h3 align="left">What am I doing?</h3>  
 
 I'm
